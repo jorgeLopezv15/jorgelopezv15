@@ -20,4 +20,3 @@
   </p>
   
 </p>
-![5tw80U](https://github.com/user-attachments/assets/8d68bd0a-8b10-472f-b671-321162556bfe)
