@@ -1,7 +1,7 @@
 ### Hello World. I'm Jossue Fuentes 👋.
 ---
 <p>
-  <img src="./ico.gif" align="right" width="15%"/>
+  <img src="./mwS8QM.gif" align="right" width="15%"/>
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
