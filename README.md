@@ -3,7 +3,7 @@
 <p>
   <img src="./ico.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy un estudiante de computacion y estoy aprendiendo programar a htnl , java , usar la terminal de sql y linux
+    <br>Soy un estudiante de computacion y estoy aprendiendo programar a htnl , java , sql y linux
     <br>
     <br>🔹 ahora estoy aprediendo la creacion de pagimas web y programcion en java
     <br>🔹 estoy aprendiendo programar html
