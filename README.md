@@ -8,7 +8,6 @@
     <br>🔹 Actualmente estoy aprendiendo linux
     <br>🔹 Aprendo a programar html y java
     <br>🔹 Yo jorge lopez fui maestro de rockemma
-    <br>🔹 https://jossuefuentes.space/
     </samp>
    <br>
   <br>
