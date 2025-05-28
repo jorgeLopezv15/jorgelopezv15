@@ -1,20 +1,20 @@
-### Hello World. I'm Jossue Fuentes 👋.
+### Hello World. im am Jorge Lopez 🥵.
 ---
 <p>
   <img src="./mwS8QM.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy un desarrollador Web y creador de contenidos digitales.
+    <br>Soy un estudiante de computacion estoy aprendiendo a comprender html,java,css,sql.
     <br>
-    <br>🔹 Actualmente estoy aprendiendo REACT
-    <br>🔹 Programación en python con raspberry pi pico W
-    <br>🔹 Me interesa el desarrollo de aplicaciones web.
+    <br>🔹 Actualmente estoy aprendiendo linux
+    <br>🔹 Aprendo a programar html y java
+    <br>🔹 Yo jorge lopez fui maestro de rockemma
     <br>🔹 https://jossuefuentes.space/
     </samp>
    <br>
   <br>
   <p align="center">
     <samp>
-      #html, #css, #javascript, #git, #react, #python, #Java SE, #SQL, #Bash, #linux
+      #html, #css, #github,  #Java, #SQL, #Bash, #windows
      </samp>
     <br>
   </p>
