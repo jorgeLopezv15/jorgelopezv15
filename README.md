@@ -1,7 +1,7 @@
 ### Hello Programadores. im am Jorge Lopez 🥵.
 ---
 <p>
-  <img src="./mwS8QM.gif" align="right" width="15%"/>
+  <img src="./mwS8QM.gif" align="right" width="20%"/>
   <samp>
     <br>Soy un estudiante de computacion estoy aprendiendo a comprender html,java,css,sql.
     <br>
