@@ -1,13 +1,13 @@
-### Hello Programadores. im am Jorge Lopez 🥵.
+### Hello Programadores. im am Jorge López 🥵.
 ---
 <p>
   <img src="./mwS8QM.gif" align="right" width="20%"/>
   <samp>
-    <br>Soy un estudiante de computacion estoy aprendiendo a comprender html,java,css,sql.
+    <br>Soy un estudiante de computación estoy aprendiendo a comprender html,java,css y sql.
     <br>
-    <br>🔹 Actualmente estoy aprendiendo linux
-    <br>🔹 Aprendo a programar html y java
-    <br>🔹 Yo jorge lopez fui maestro de rockemma
+    <br>🔹 Actualmente estoy aprendiendo Linux.
+    <br>🔹 Aprendo a programar html y java.
+    <br>🔹 Yo Jorge López fui maestro de Rockemma.
     </samp>
    <br>
   <br>
