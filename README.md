@@ -8,6 +8,8 @@
     <br>🔹 Actualmente estoy aprendiendo Linux.
     <br>🔹 Aprendo a programar html y java.
     <br>🔹 Yo Jorge López fui maestro de Rockemma.
+        <br>🔹 Conocí a P. Diddy en una noche inolvidable 💕💕.
+    <br>🔹 Yo Jorge López le enseñé el arcoíris a Neymar Jr.
     </samp>
    <br>
   <br>
